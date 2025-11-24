@@ -44,8 +44,9 @@ Or run in RStudio using Source.
 🖼 Plot Preview (Embed PNG Files)
 Make sure your images are inside plots/ folder.
 
-Bar Graph
-Bar Graph
+### *Bar Graph*
+![Bar Graph](https://github.com/anushka-kave/Data-analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e9ea31980fbd5dfc1ac6b7899ce963f5bb72f567/Bar%20Graph.png)
+
 
 Histogram
 Histogram
