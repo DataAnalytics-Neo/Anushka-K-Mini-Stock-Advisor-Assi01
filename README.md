@@ -48,8 +48,8 @@ Make sure your images are inside plots/ folder.
 ![Bar Graph](https://github.com/anushka-kave/Data-analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e9ea31980fbd5dfc1ac6b7899ce963f5bb72f567/Bar%20Graph.png)
 
 
-Histogram
-Histogram
+### *Histogram*
+![Histogram](https://github.com/anushka-kave/Data-analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e9ea31980fbd5dfc1ac6b7899ce963f5bb72f567/Histogram.png)
 
-Scatter Plot
-Scatter Plot
+### *Scatter Plot*
+![Scatter Plot](https://github.com/anushka-kave/Data-analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e9ea31980fbd5dfc1ac6b7899ce963f5bb72f567/Scatter%20Plot.png)
